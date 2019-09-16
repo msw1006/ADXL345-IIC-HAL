@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userOverrides>
+    <override>
+        <path>C:\Users\wwxx\Desktop\ADXL345_IIC_l431\Src\gpio.c</path>
+        <encoding>System</encoding>
+    </override>
+</userOverrides>
