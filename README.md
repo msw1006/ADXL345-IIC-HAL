@@ -1,0 +1,4 @@
+# ADXL345-IIC-HAL
+ADXL345 与Stm32 通过I2c通讯
+使用IAR8.0x版本编辑
+HAL库
